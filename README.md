@@ -7,4 +7,4 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Iriomech&count_private=true&show_icons=true&theme=codeSTACKr)
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=iriomech.iriomech&left_color=orange&right_color=yellow)
